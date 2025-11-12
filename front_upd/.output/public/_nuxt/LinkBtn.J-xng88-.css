@@ -1,0 +1,29 @@
+.link_btn[data-v-7b6041c4] {
+  align-items: center;
+  background-color: #606060;
+  border: none;
+  border-radius: 23px;
+  color: #fff;
+  cursor: pointer;
+  display: flex;
+  font-weight: 700;
+  height: 3rem;
+  justify-content: center;
+  margin-bottom: 5px;
+  transition: all 0.3s ease;
+  width: 100%;
+}
+.link_logo[data-v-7b6041c4] {
+  align-items: center;
+  background-image: var(--bg-image);
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 1.5rem;
+  margin: 10px;
+  width: 1.5rem;
+}
+.link_btn[data-v-7b6041c4]:hover {
+  transform: scale(1.03);
+  transition: all 0.3s ease;
+}

@@ -1,0 +1,537 @@
+nohup: ignoring input
+Listening on http://[::]:3000
+[Vue Router warn]: No match found for location with path "/api/"
+[Vue Router warn]: No match found for location with path "/api/"
+[Vue Router warn]: No match found for location with path "/api/"
+[Vue Router warn]: No match found for location with path "/api/"
+Ошибка загрузки: FetchError: [GET] "https://школа29.рф/api/news/?page_size=3": 503 Service Unavailable
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    ... 3 lines matching cause stack trace ...
+    at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63) {
+  cause: FetchError: [GET] "https://школа29.рф/api/news/?page_size=3": 503 Service Unavailable
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2458:14)
+      at async $fetch2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2463:15)
+      at async loadNews (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:39:33)
+      at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63),
+  statusCode: 503,
+  fatal: false,
+  unhandled: false,
+  statusMessage: 'Service Unavailable',
+  data: '<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">\n' +
+    '<html><head>\n' +
+    '<title>503 Service Unavailable</title>\n' +
+    '</head><body>\n' +
+    '<h1>Service Unavailable</h1>\n' +
+    '<p>The server is temporarily unable to service your\n' +
+    'request due to maintenance downtime or capacity\n' +
+    'problems. Please try again later.</p>\n' +
+    '</body></html>\n'
+}
+[Vue Router warn]: No match found for location with path "/admin"
+[Vue Router warn]: No match found for location with path "/admin"
+[Vue Router warn]: No match found for location with path "/admin"
+[Vue Router warn]: No match found for location with path "/admin"
+[Vue Router warn]: No match found for location with path "/admin"
+[Vue Router warn]: No match found for location with path "/admin"
+[Vue Router warn]: No match found for location with path "/admin"
+[Vue Router warn]: No match found for location with path "/admin"
+Ошибка загрузки: FetchError: [GET] "https://школа29.рф/api/news/?page_size=3": 503 Service Unavailable
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    ... 3 lines matching cause stack trace ...
+    at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63) {
+  cause: FetchError: [GET] "https://школа29.рф/api/news/?page_size=3": 503 Service Unavailable
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2458:14)
+      at async $fetch2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2463:15)
+      at async loadNews (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:39:33)
+      at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63),
+  statusCode: 503,
+  fatal: false,
+  unhandled: false,
+  statusMessage: 'Service Unavailable',
+  data: '<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">\n' +
+    '<html><head>\n' +
+    '<title>503 Service Unavailable</title>\n' +
+    '</head><body>\n' +
+    '<h1>Service Unavailable</h1>\n' +
+    '<p>The server is temporarily unable to service your\n' +
+    'request due to maintenance downtime or capacity\n' +
+    'problems. Please try again later.</p>\n' +
+    '</body></html>\n'
+}
+Ошибка загрузки: FetchError: [GET] "https://школа29.рф/api/news/?page_size=3": 503 Service Unavailable
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    ... 3 lines matching cause stack trace ...
+    at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63) {
+  cause: FetchError: [GET] "https://школа29.рф/api/news/?page_size=3": 503 Service Unavailable
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2458:14)
+      at async $fetch2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2463:15)
+      at async loadNews (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:39:33)
+      at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63),
+  statusCode: 503,
+  fatal: false,
+  unhandled: false,
+  statusMessage: 'Service Unavailable',
+  data: '<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">\n' +
+    '<html><head>\n' +
+    '<title>503 Service Unavailable</title>\n' +
+    '</head><body>\n' +
+    '<h1>Service Unavailable</h1>\n' +
+    '<p>The server is temporarily unable to service your\n' +
+    'request due to maintenance downtime or capacity\n' +
+    'problems. Please try again later.</p>\n' +
+    '</body></html>\n'
+}
+Ошибка загрузки: FetchError: [GET] "https://школа29.рф/api/news/?page_size=3": 503 Service Unavailable
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    ... 3 lines matching cause stack trace ...
+    at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63) {
+  cause: FetchError: [GET] "https://школа29.рф/api/news/?page_size=3": 503 Service Unavailable
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2458:14)
+      at async $fetch2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2463:15)
+      at async loadNews (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:39:33)
+      at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63),
+  statusCode: 503,
+  fatal: false,
+  unhandled: false,
+  statusMessage: 'Service Unavailable',
+  data: '<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">\n' +
+    '<html><head>\n' +
+    '<title>503 Service Unavailable</title>\n' +
+    '</head><body>\n' +
+    '<h1>Service Unavailable</h1>\n' +
+    '<p>The server is temporarily unable to service your\n' +
+    'request due to maintenance downtime or capacity\n' +
+    'problems. Please try again later.</p>\n' +
+    '</body></html>\n'
+}
+Ошибка загрузки: FetchError: [GET] "https://школа29.рф/api/news/?page_size=3": 503 Service Unavailable
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    ... 3 lines matching cause stack trace ...
+    at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63) {
+  statusCode: 503,
+  fatal: false,
+  unhandled: false,
+  statusMessage: 'Service Unavailable',
+  data: '<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">\n' +
+    '<html><head>\n' +
+    '<title>503 Service Unavailable</title>\n' +
+    '</head><body>\n' +
+    '<h1>Service Unavailable</h1>\n' +
+    '<p>The server is temporarily unable to service your\n' +
+    'request due to maintenance downtime or capacity\n' +
+    'problems. Please try again later.</p>\n' +
+    '</body></html>\n',
+  [cause]: FetchError: [GET] "https://школа29.рф/api/news/?page_size=3": 503 Service Unavailable
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2458:14)
+      at async $fetch2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2463:15)
+      at async loadNews (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:39:33)
+      at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63)
+}
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+Ошибка загрузки: FetchError: [GET] "https://школа29.рф/api/news/?page_size=3": 503 Service Unavailable
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    ... 3 lines matching cause stack trace ...
+    at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63) {
+  statusCode: 503,
+  fatal: false,
+  unhandled: false,
+  statusMessage: 'Service Unavailable',
+  data: '<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">\n' +
+    '<html><head>\n' +
+    '<title>503 Service Unavailable</title>\n' +
+    '</head><body>\n' +
+    '<h1>Service Unavailable</h1>\n' +
+    '<p>The server is temporarily unable to service your\n' +
+    'request due to maintenance downtime or capacity\n' +
+    'problems. Please try again later.</p>\n' +
+    '</body></html>\n',
+  [cause]: FetchError: [GET] "https://школа29.рф/api/news/?page_size=3": 503 Service Unavailable
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2458:14)
+      at async $fetch2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2463:15)
+      at async loadNews (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:39:33)
+      at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63)
+}
+Ошибка загрузки: FetchError: [GET] "https://школа29.рф/api/news/?page_size=3": 503 Service Unavailable
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    ... 3 lines matching cause stack trace ...
+    at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63) {
+  statusCode: 503,
+  fatal: false,
+  unhandled: false,
+  statusMessage: 'Service Unavailable',
+  data: '<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">\n' +
+    '<html><head>\n' +
+    '<title>503 Service Unavailable</title>\n' +
+    '</head><body>\n' +
+    '<h1>Service Unavailable</h1>\n' +
+    '<p>The server is temporarily unable to service your\n' +
+    'request due to maintenance downtime or capacity\n' +
+    'problems. Please try again later.</p>\n' +
+    '</body></html>\n',
+  [cause]: FetchError: [GET] "https://школа29.рф/api/news/?page_size=3": 503 Service Unavailable
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2458:14)
+      at async $fetch2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2463:15)
+      at async loadNews (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:39:33)
+      at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63)
+}
+Ошибка загрузки: FetchError: [GET] "https://школа29.рф/api/news/?page_size=3": 503 Service Unavailable
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    ... 3 lines matching cause stack trace ...
+    at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63) {
+  statusCode: 503,
+  fatal: false,
+  unhandled: false,
+  statusMessage: 'Service Unavailable',
+  data: '<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">\n' +
+    '<html><head>\n' +
+    '<title>503 Service Unavailable</title>\n' +
+    '</head><body>\n' +
+    '<h1>Service Unavailable</h1>\n' +
+    '<p>The server is temporarily unable to service your\n' +
+    'request due to maintenance downtime or capacity\n' +
+    'problems. Please try again later.</p>\n' +
+    '</body></html>\n',
+  [cause]: FetchError: [GET] "https://школа29.рф/api/news/?page_size=3": 503 Service Unavailable
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2458:14)
+      at async $fetch2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2463:15)
+      at async loadNews (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:39:33)
+      at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63)
+}
+Ошибка загрузки: FetchError: [GET] "https://школа29.рф/api/news/?page_size=3": 503 Service Unavailable
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    ... 3 lines matching cause stack trace ...
+    at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63) {
+  statusCode: 503,
+  fatal: false,
+  unhandled: false,
+  statusMessage: 'Service Unavailable',
+  data: '<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">\n' +
+    '<html><head>\n' +
+    '<title>503 Service Unavailable</title>\n' +
+    '</head><body>\n' +
+    '<h1>Service Unavailable</h1>\n' +
+    '<p>The server is temporarily unable to service your\n' +
+    'request due to maintenance downtime or capacity\n' +
+    'problems. Please try again later.</p>\n' +
+    '</body></html>\n',
+  [cause]: FetchError: [GET] "https://школа29.рф/api/news/?page_size=3": 503 Service Unavailable
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2458:14)
+      at async $fetch2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2463:15)
+      at async loadNews (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:39:33)
+      at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63)
+}
+[Vue Router warn]: No match found for location with path "/login"
+[Vue Router warn]: No match found for location with path "/login"
+[Vue Router warn]: No match found for location with path "/login"
+[Vue Router warn]: No match found for location with path "/login"
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+Ошибка загрузки: FetchError: [GET] "https://школа29.рф/api/news/?page_size=3": <no response> fetch failed
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2417:14)
+    ... 2 lines matching cause stack trace ...
+    at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63) {
+  statusCode: 500,
+  fatal: false,
+  unhandled: false,
+  statusMessage: undefined,
+  data: undefined,
+  [cause]: TypeError: fetch failed
+      at Object.fetch (node:internal/deps/undici/undici:16289:11)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2405:26)
+      at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2417:14)
+      at async $fetch2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2463:15)
+      at async loadNews (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:39:33)
+      at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63) {
+    cause: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: xn--29-6kc3bfr2e.xn--p1ai. is not in the cert's altnames: DNS:*.hosting.reg.ru, DNS:hosting.reg.ru
+        at new NodeError (node:internal/errors:405:5)
+        at Object.checkServerIdentity (node:tls:337:12)
+        at TLSSocket.onConnectSecure (node:_tls_wrap:1669:27)
+        at TLSSocket.emit (node:events:517:28)
+        at TLSSocket._finishInit (node:_tls_wrap:1070:8)
+        at ssl.onhandshakedone (node:_tls_wrap:856:12) {
+      reason: "Host: xn--29-6kc3bfr2e.xn--p1ai. is not in the cert's altnames: DNS:*.hosting.reg.ru, DNS:hosting.reg.ru",
+      host: 'xn--29-6kc3bfr2e.xn--p1ai',
+      cert: [Object],
+      code: 'ERR_TLS_CERT_ALTNAME_INVALID'
+    }
+  }
+}
+Ошибка загрузки: FetchError: [GET] "https://школа29.рф/api/news/?page_size=3": <no response> fetch failed
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2417:14)
+    ... 2 lines matching cause stack trace ...
+    at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63) {
+  statusCode: 500,
+  fatal: false,
+  unhandled: false,
+  statusMessage: undefined,
+  data: undefined,
+  [cause]: TypeError: fetch failed
+      at Object.fetch (node:internal/deps/undici/undici:16289:11)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2405:26)
+      at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2417:14)
+      at async $fetch2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2463:15)
+      at async loadNews (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:39:33)
+      at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63) {
+    cause: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: xn--29-6kc3bfr2e.xn--p1ai. is not in the cert's altnames: DNS:*.hosting.reg.ru, DNS:hosting.reg.ru
+        at new NodeError (node:internal/errors:405:5)
+        at Object.checkServerIdentity (node:tls:337:12)
+        at TLSSocket.onConnectSecure (node:_tls_wrap:1669:27)
+        at TLSSocket.emit (node:events:517:28)
+        at TLSSocket._finishInit (node:_tls_wrap:1070:8)
+        at ssl.onhandshakedone (node:_tls_wrap:856:12) {
+      reason: "Host: xn--29-6kc3bfr2e.xn--p1ai. is not in the cert's altnames: DNS:*.hosting.reg.ru, DNS:hosting.reg.ru",
+      host: 'xn--29-6kc3bfr2e.xn--p1ai',
+      cert: [Object],
+      code: 'ERR_TLS_CERT_ALTNAME_INVALID'
+    }
+  }
+}
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+Ошибка загрузки: FetchError: [GET] "https://школа29.рф/api/news/?page_size=3": <no response> fetch failed
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2417:14)
+    ... 2 lines matching cause stack trace ...
+    at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63) {
+  statusCode: 500,
+  fatal: false,
+  unhandled: false,
+  statusMessage: undefined,
+  data: undefined,
+  [cause]: TypeError: fetch failed
+      at Object.fetch (node:internal/deps/undici/undici:16289:11)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2405:26)
+      at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2417:14)
+      at async $fetch2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2463:15)
+      at async loadNews (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:39:33)
+      at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63) {
+    cause: Error: getaddrinfo ENOTFOUND xn--29-6kc3bfr2e.xn--p1ai
+        at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+      errno: -3008,
+      code: 'ENOTFOUND',
+      syscall: 'getaddrinfo',
+      hostname: 'xn--29-6kc3bfr2e.xn--p1ai'
+    }
+  }
+}
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/api/v1/users/search"
+[Vue Router warn]: No match found for location with path "/api/v1/users/search"
+Ошибка загрузки: FetchError: [GET] "https://школа29.рф/api/news/?page_size=3": <no response> fetch failed
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2417:14)
+    ... 2 lines matching cause stack trace ...
+    at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63) {
+  statusCode: 500,
+  fatal: false,
+  unhandled: false,
+  statusMessage: undefined,
+  data: undefined,
+  [cause]: TypeError: fetch failed
+      at Object.fetch (node:internal/deps/undici/undici:16289:11)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2405:26)
+      at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2417:14)
+      at async $fetch2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2463:15)
+      at async loadNews (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:39:33)
+      at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63) {
+    cause: Error: getaddrinfo ENOTFOUND xn--29-6kc3bfr2e.xn--p1ai
+        at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+      errno: -3008,
+      code: 'ENOTFOUND',
+      syscall: 'getaddrinfo',
+      hostname: 'xn--29-6kc3bfr2e.xn--p1ai'
+    }
+  }
+}
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+Ошибка загрузки: FetchError: [GET] "https://школа29.рф/api/news/?page_size=3": <no response> fetch failed
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2417:14)
+    ... 2 lines matching cause stack trace ...
+    at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63) {
+  statusCode: 500,
+  fatal: false,
+  unhandled: false,
+  statusMessage: undefined,
+  data: undefined,
+  [cause]: TypeError: fetch failed
+      at Object.fetch (node:internal/deps/undici/undici:16289:11)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2405:26)
+      at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2417:14)
+      at async $fetch2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2463:15)
+      at async loadNews (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:39:33)
+      at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63) {
+    cause: Error: getaddrinfo ENOTFOUND xn--29-6kc3bfr2e.xn--p1ai
+        at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+      errno: -3008,
+      code: 'ENOTFOUND',
+      syscall: 'getaddrinfo',
+      hostname: 'xn--29-6kc3bfr2e.xn--p1ai'
+    }
+  }
+}
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+Ошибка загрузки: FetchError: [GET] "https://школа29.рф/api/news/?page_size=3": <no response> fetch failed
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2417:14)
+    ... 2 lines matching cause stack trace ...
+    at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63) {
+  statusCode: 500,
+  fatal: false,
+  unhandled: false,
+  statusMessage: undefined,
+  data: undefined,
+  [cause]: TypeError: fetch failed
+      at Object.fetch (node:internal/deps/undici/undici:16289:11)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2405:26)
+      at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2417:14)
+      at async $fetch2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2463:15)
+      at async loadNews (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:39:33)
+      at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63) {
+    cause: Error: getaddrinfo ENOTFOUND xn--29-6kc3bfr2e.xn--p1ai
+        at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+      errno: -3008,
+      code: 'ENOTFOUND',
+      syscall: 'getaddrinfo',
+      hostname: 'xn--29-6kc3bfr2e.xn--p1ai'
+    }
+  }
+}
+Ошибка загрузки: FetchError: [GET] "https://школа29.рф/api/news/?page_size=3": <no response> fetch failed
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2417:14)
+    ... 2 lines matching cause stack trace ...
+    at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63) {
+  statusCode: 500,
+  fatal: false,
+  unhandled: false,
+  statusMessage: undefined,
+  data: undefined,
+  [cause]: TypeError: fetch failed
+      at Object.fetch (node:internal/deps/undici/undici:16289:11)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2405:26)
+      at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2417:14)
+      at async $fetch2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2463:15)
+      at async loadNews (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:39:33)
+      at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63) {
+    cause: Error: getaddrinfo ENOTFOUND xn--29-6kc3bfr2e.xn--p1ai
+        at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+      errno: -3008,
+      code: 'ENOTFOUND',
+      syscall: 'getaddrinfo',
+      hostname: 'xn--29-6kc3bfr2e.xn--p1ai'
+    }
+  }
+}
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+[Vue Router warn]: No match found for location with path "/.git/config"
+Ошибка загрузки: FetchError: [GET] "https://школа29.рф/api/news/?page_size=3": <no response> fetch failed
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2417:14)
+    ... 2 lines matching cause stack trace ...
+    at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63) {
+  cause: TypeError: fetch failed
+      at Object.fetch (node:internal/deps/undici/undici:16289:11)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2405:26)
+      at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2417:14)
+      at async $fetch2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2463:15)
+      at async loadNews (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:39:33)
+      at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63) {
+    cause: Error: getaddrinfo ENOTFOUND xn--29-6kc3bfr2e.xn--p1ai
+        at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+      errno: -3008,
+      code: 'ENOTFOUND',
+      syscall: 'getaddrinfo',
+      hostname: 'xn--29-6kc3bfr2e.xn--p1ai'
+    }
+  },
+  statusCode: 500,
+  fatal: false,
+  unhandled: false,
+  statusMessage: undefined,
+  data: undefined
+}
+Ошибка загрузки: FetchError: [GET] "https://школа29.рф/api/news/?page_size=3": <no response> fetch failed
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2417:14)
+    ... 2 lines matching cause stack trace ...
+    at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63) {
+  statusCode: 500,
+  fatal: false,
+  unhandled: false,
+  statusMessage: undefined,
+  data: undefined,
+  [cause]: TypeError: fetch failed
+      at Object.fetch (node:internal/deps/undici/undici:16289:11)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2405:26)
+      at async $fetchRaw2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2417:14)
+      at async $fetch2 (file:///root/front_upd/.output/server/chunks/_/nitro.mjs:2463:15)
+      at async loadNews (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:39:33)
+      at async setup (file:///root/front_upd/.output/server/chunks/build/index-Cun9IMBg.mjs:54:63) {
+    cause: Error: getaddrinfo ENOTFOUND xn--29-6kc3bfr2e.xn--p1ai
+        at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+      errno: -3008,
+      code: 'ENOTFOUND',
+      syscall: 'getaddrinfo',
+      hostname: 'xn--29-6kc3bfr2e.xn--p1ai'
+    }
+  }
+}
+[Vue Router warn]: No match found for location with path "/sitemap.xml"
+[Vue Router warn]: No match found for location with path "/sitemap.xml"
+[Vue Router warn]: No match found for location with path "/sitemap.xml"
+[Vue Router warn]: No match found for location with path "/sitemap.xml"
